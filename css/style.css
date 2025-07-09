@@ -1,0 +1,63 @@
+#username {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+#password {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+#email {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+#submitbn {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+/* login.html */
+
+
+#username {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+#password {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+#email {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+
+#submitbtn {
+    color: blue;
+    background: linear-gradient(black, white);
+    padding: 10px;
+    margin: 10px;
+}
+*{
+    background: linear-gradient(seagreen);
+    padding: 50px;
+    border-radius: 50px;
+}
